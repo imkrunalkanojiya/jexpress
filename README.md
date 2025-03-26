@@ -298,11 +298,6 @@ Application app = Application.create()
 ## License
 MIT License
 
-## Contact
-For questions, issues, or contributions:
-- Email: support@restapiframework.com
-- GitHub: [REST API Framework Repository]
-
 ---
 
 **Disclaimer**: This framework is designed for educational and lightweight use cases. For production-grade applications, consider enterprise frameworks like Spring Boot.
